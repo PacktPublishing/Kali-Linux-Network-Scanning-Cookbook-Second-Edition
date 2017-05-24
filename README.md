@@ -8,7 +8,7 @@ Starting with the fundamentals of installing and managing Kali Linux, this book 
 This immersive guide will also encourage the creation of personally scripted tools and the skills required to create them.
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter02.
 
 
 
@@ -34,7 +34,7 @@ sniff(lfilter=rules,store=0)
 
 
 
-## Related Products
+## Related Kali Linux Products
 * [Learning Network Penetration Testing with Kali Linux [Video]](https://www.packtpub.com/networking-and-servers/learning-network-penetration-testing-kali-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781787129481)
 
 * [Kali Linux Intrusion and Exploitation Cookbook](https://www.packtpub.com/networking-and-servers/kali-linux-intrusion-and-exploitation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783982165)
