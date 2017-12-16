@@ -41,5 +41,3 @@ sniff(lfilter=rules,store=0)
 
 * [Kali Linux 2 - Assuring Security by Penetration Testing - Third Edition](https://www.packtpub.com/networking-and-servers/kali-linux-2-assuring-security-penetration-testing-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785888427)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
